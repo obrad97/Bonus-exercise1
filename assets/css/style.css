@@ -10,13 +10,13 @@ body {
 .container {
     height: 90vh;
     margin: 0 auto;
+    padding: 10px;
     display: grid;
     justify-content: center;
     align-content: center;
     grid-template-columns: 255px 255px 255px 255px;
     grid-template-rows: auto auto ;
     grid-gap: 30px;
-    padding: 10px;
     font-family: 'Barlow Semi Condensed', sans-serif;
 } 
 
